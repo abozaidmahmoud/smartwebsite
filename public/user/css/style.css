@@ -1,0 +1,68 @@
+/*start post style*/
+.post_title{
+	  color: rgb(89, 80, 80);
+	  font-size: 27px;
+	  font-family: monospace;
+	
+}
+
+.posted_by{
+	font-size: 10px;
+	font-family: cursive;
+	margin-bottom: 18px;
+	margin-left: 35px;
+}
+.post_content{
+	margin: 30px 0 20px 0;
+}
+.post_img{
+	width: 140px;
+   height: 128px
+}
+.post_body{
+	margin-left: 59px;
+ 	font-size: 17px;
+}
+
+.tags{
+	margin-left: 160px;
+	margin-bottom:20px;
+}
+
+
+.list_cateogery,.list_tag{
+	font-family: monospace;
+	color: black;
+	font-size: 14px;
+	margin: 0 10px 0 22px;
+	box-shadow: 0 0px 9px rgb(45, 40, 40);
+	padding: 5px 6px 5px 5px;
+
+
+}
+/*end post style*/
+
+/*start comment style*/
+.comment_display{
+	position: relative;
+}
+
+.comment_title{
+	color: rgb(253, 246, 246);
+  background-color: rgb(13, 11, 9);
+  padding: 3px 11px 5px 8px;
+  border-radius: 10px;
+}
+
+.comment_text{
+
+    margin-top: 5px;
+   margin-left: 57px;
+  background-color: rgb(229, 222, 222);
+  padding: 5px 5px 4px 7px;
+  border-radius: 5px;
+}
+
+
+
+/*end comment style*/

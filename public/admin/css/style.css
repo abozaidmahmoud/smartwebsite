@@ -1,0 +1,37 @@
+.post_form,.tag_form,.cateogery_form{
+	width: 450px;
+	margin: auto;
+}
+
+.error_form{
+	width: 248px;
+	border-radius: 18px;
+}
+.search{
+	position: relative;
+}
+.fa-search{
+	position: absolute;
+	right: 7px;
+  	top: 5px;
+}
+.del_but{
+	margin-left: 10px;
+}
+.post_but{
+	padding-bottom: 20px;
+}
+.alert-info{
+	background: #3A3B3C !important;
+	border:1px solid white;
+	border-radius: 10px; 
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	color:  black;
+}
+
+.user_role{
+	margin-right: 20px;
+}
+
